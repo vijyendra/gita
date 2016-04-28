@@ -1,0 +1,12 @@
+
+*.bin
+
+*.lock
+
+*.class
+
+*.idx
+
+*.jar
+
+*.MF
